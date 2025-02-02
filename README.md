@@ -35,6 +35,7 @@ This project demonstrates proficiency in handling and analyzing large datasets, 
 
 1. From the below chart, we can derive that the Average Daily Rate is nearly a flat line. We can introduce dynamic pricing depending upon the day of the week, occupancy percentage, ‘season’ to attract more revenue. We can decrease the price on weekdays to attract more customers and similary we can also revise our pricing depending on the climatic seasons. Summers, in India, are generally a holdiday season - we can introduce new packages to attract more customers during this time.
 
-![Trend By Key Metrics]()
-2. 
+![Trend By Key Metrics](https://github.com/arya-analyst/PowerBI_Visualization/blob/main/Trends%20by%20Key%20Metrics.png)
+
+2. We can see that the occupation rate has a direct correlation with the average rating that they have received. We need to dive deep to analyze the root cause behind the low rating of certain hotels. It can be due to many reasons including cleanliness, aesthetics, facilities provided including food, easiness in check-in and check-out, staff behavior etc.
 
