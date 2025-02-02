@@ -2,7 +2,7 @@
 
 Explore this GitHub repository where I leverage the power of Power BI to create a star schema for a hotel-chain dataset and conduct statistical analysis for key insights.
 
-
+![Dashboard](https://github.com/arya-analyst/PowerBI_Visualization/blob/main/BI_Dashboard.png)
 
 ## Objective:
 
