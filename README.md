@@ -27,7 +27,7 @@ This project demonstrates proficiency in handling and analyzing large datasets, 
 - **Data Profiling**: Navigated to the Power Query Editor and opted to profile the entire dataset for a more exhaustive understanding of its characteristics.
 - **Data Customisation**: Based on the feedback from stakeholder, we considered Friday and Saturday as weekend and from Sunday to Thurdsay as weekdays. In PowerBI, Sunday weekday number is 1, Monday is 2 and so on. So, if weekday number is greater than 5, then weekend or else weekday.
 - **Data Modelling**: Establishing relationship between different data tables.
-  ![Reationship] (https://github.com/arya-analyst/PowerBI_Visualization/blob/main/Relationship.png)
+![Reationship] (https://github.com/arya-analyst/PowerBI_Visualization/blob/main/Relationship.png)
 - **Interactive Filters**: Enhanced user engagement and exploration capabilities by integrating visual filters for key categorical fields such as "Location, "Room Class", "Mpnths", "Week" and "Hotels"
 
 ## Recommendations:
