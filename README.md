@@ -14,13 +14,19 @@ This project demonstrates proficiency in handling and analyzing large datasets, 
 
 ## Key Metrices:
 
-- Revenue: Total revenue realized during a said period
-- RevPAR: RevPAR or Revenue Per Available Room represents the revenue generated per available room, whether or not they are occupied. RevPAR helps hotels measure their revenue generating performance to accurately price rooms.
-- DSRN: DSRN i.e., Daily Sellable Room Night tells on average how many rooms are ready to sell for a day considering a time period
-- Occupancy %: Occupancy means total successful bookings happened to the total rooms available.
-- ADR: It is the ratio of revenue to the total rooms booked/sold. 
-- Realisation %: It is nothing but the succesful "checked out" percentage over all bookings happened.
+- **Revenue**: Total revenue realized during a said period
+- **RevPAR**: RevPAR or Revenue Per Available Room represents the revenue generated per available room, whether or not they are occupied. RevPAR helps hotels measure their revenue generating performance to accurately price rooms.
+- **DSRN**: DSRN i.e., Daily Sellable Room Night tells on average how many rooms are ready to sell for a day considering a time period
+- **Occupancy** %: Occupancy means total successful bookings happened to the total rooms available.
+- **ADR**: It is the ratio of revenue to the total rooms booked/sold. 
+- **Realisation** %: It is nothing but the succesful "checked out" percentage over all bookings happened.
 
+## Data Analysis and Visualization Workflow:
 
+- **Data Ingestion**: Imported the dataset, formatted as CSV files, contained in a folder, into Power BI Desktop to initiate the analysis process.
+- **Data Profiling**: Navigated to the Power Query Editor and opted to profile the entire dataset for a more exhaustive understanding of its characteristics.
+- **Data Customisation**: Based on the feedback from stakeholder, we considered Friday and Saturday as weekend and from Sunday to Thurdsay as weekdays. In PowerBI, Sunday weekday number is 1, Monday is 2 and so on. So, if weekday number is greater than 5, then weekend or else weekday.
+- **Data Modeeling**: Establishing relationship between different data tables.
+- ![Reationship]
 
 
