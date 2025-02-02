@@ -46,4 +46,4 @@ This project demonstrates proficiency in handling and analyzing large datasets, 
 
 ![Realisation & ADR](https://github.com/arya-analyst/PowerBI_Visualization/blob/main/Realisation%26ADR.png)
 
-- The cancellation rates are >20% for all the hotels. That’s 1 of every 5 bookings we get! The rate remains the same irrespective of the day of the week or room type. We can introduce measures like having a debit/credit card deposit policy or offering discounts on prepaid bookings.
+- The cancellation rates are >20% for all the hotels. That’s 1 of every 5 bookings we get! The rate remains the same irrespective of the day of the week or room type. We can introduce measures like having a debit/credit card deposit policy or offering discounts on prepaid bookings to minimize the cancellation rates.
