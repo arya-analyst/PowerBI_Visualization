@@ -29,8 +29,12 @@ This project demonstrates proficiency in handling and analyzing large datasets, 
 - **Data Customisation**: Based on the feedback from stakeholder, we considered Friday and Saturday as weekend and from Sunday to Thurdsay as weekdays. In PowerBI, Sunday weekday number is 1, Monday is 2 and so on. So, if weekday number is greater than 5, then weekend or else weekday.
 - **Data Modelling**: Establishing relationship between different data tables.
  ![Reationship](https://github.com/arya-analyst/PowerBI_Visualization/blob/main/Relationship.png)
-- **Interactive Filters**: Enhanced user engagement and exploration capabilities by integrating visual filters for key categorical fields such as "Location, "Room Class", "Mpnths", "Week" and "Hotels"
+- **Interactive Filters**: Enhanced user engagement and exploration capabilities by integrating visual filters for key categorical fields such as "Location, "Room Class", "Months", "Week" and "Hotels"
 
 ## Recommendations:
 
+1. From the below chart, we can derive that the Average Daily Rate is nearly a flat line. We can introduce dynamic pricing depending upon the day of the week, occupancy percentage, ‘season’ to attract more revenue. We can decrease the price on weekdays to attract more customers and similary we can also revise our pricing depending on the climatic seasons. Summers, in India, are generally a holdiday season - we can introduce new packages to attract more customers during this time.
+
+![Trend By Key Metrics]()
+2. 
 
