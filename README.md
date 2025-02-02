@@ -31,16 +31,19 @@ This project demonstrates proficiency in handling and analyzing large datasets, 
  ![Reationship](https://github.com/arya-analyst/PowerBI_Visualization/blob/main/Relationship.png)
 - **Interactive Filters**: Enhanced user engagement and exploration capabilities by integrating visual filters for key categorical fields such as "Location, "Room Class", "Months", "Week" and "Hotels"
 
+
 ## Recommendations:
 
-1. From the below chart, we can derive that the Average Daily Rate is nearly a flat line. We can introduce dynamic pricing depending upon the day of the week, occupancy percentage, ‘season’ to attract more revenue. We can decrease the price on weekdays to attract more customers and similary we can also revise our pricing depending on the climatic seasons. Summers, in India, are generally a holdiday season - we can introduce new packages to attract more customers during this time.
+- From the below chart, we can derive that the Average Daily Rate is nearly a flat line. We can introduce dynamic pricing depending upon the day of the week, occupancy percentage, ‘season’ to attract more revenue. We can decrease the price on weekdays to attract more customers and similary we can also revise our pricing depending on the climatic seasons. Summers, in India, are generally a holdiday season - we can introduce new packages to attract more customers during this time.
 
 ![Trend By Key Metrics](https://github.com/arya-analyst/PowerBI_Visualization/blob/main/Trends%20by%20Key%20Metrics.png)
 
-2. We can see that the ***occupation rate*** has a direct correlation with the ***average rating*** that they have received. We need to dive deep to analyze the root cause behind the low ratings of certain hotels. It can be due to many reasons including cleanliness, aesthetics, facilities provided including food, easiness in check-in and check-out, staff behavior etc.
+- We can see that the ***occupation rate*** has a direct correlation with the ***average rating*** that they have received. We need to dive deep to analyze the root cause behind the low ratings of certain hotels. It can be due to many reasons including cleanliness, aesthetics, facilities provided including food, easiness in check-in and check-out, staff behavior etc.
 
 ![Info Table](https://github.com/arya-analyst/PowerBI_Visualization/blob/main/InfoTable.png)
 
-3. We can see that the ***realization rate*** is more or less similar for all the channels and there’s not much of a difference in their ADR as well. We can decrease the ADR for direct online channel – as the other online channel charge a certain commission - to get more bookings, hence resulting in more revenue.
+- We can see that the ***realization rate*** is more or less similar for all the channels and there’s not much of a difference in their ADR as well. We can decrease the ADR for direct online channel – as the other online channel charge a certain commission - to get more bookings, hence resulting in more revenue.
 
 ![Realisation & ADR](https://github.com/arya-analyst/PowerBI_Visualization/blob/main/Realisation%26ADR.png)
+
+- The cancellation rates are >20% for all the hotels. That’s 1 of every 5 bookings we get! The rate remains the same irrespective of the day of the week or room type. We can introduce measures like having a debit/credit card deposit policy or offering discounts on prepaid bookings.
