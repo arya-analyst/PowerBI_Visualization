@@ -37,5 +37,10 @@ This project demonstrates proficiency in handling and analyzing large datasets, 
 
 ![Trend By Key Metrics](https://github.com/arya-analyst/PowerBI_Visualization/blob/main/Trends%20by%20Key%20Metrics.png)
 
-2. We can see that the occupation rate has a direct correlation with the average rating that they have received. We need to dive deep to analyze the root cause behind the low rating of certain hotels. It can be due to many reasons including cleanliness, aesthetics, facilities provided including food, easiness in check-in and check-out, staff behavior etc.
+2. We can see that the ***occupation rate*** has a direct correlation with the ***average rating*** that they have received. We need to dive deep to analyze the root cause behind the low ratings of certain hotels. It can be due to many reasons including cleanliness, aesthetics, facilities provided including food, easiness in check-in and check-out, staff behavior etc.
 
+![Info Table](https://github.com/arya-analyst/PowerBI_Visualization/blob/main/InfoTable.png)
+
+3. We can see that the ***realization rate*** is more or less similar for all the channels and there’s not much of a difference in their ADR as well. We can decrease the ADR for direct online channel – as the other online channel charge a certain commission - to get more bookings, hence resulting in more revenue.
+
+![Realisation & ADR](https://github.com/arya-analyst/PowerBI_Visualization/blob/main/Realisation%26ADR.png)
